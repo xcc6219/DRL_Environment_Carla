@@ -3,7 +3,7 @@ We constructed a DRL interactive environment based on the [Carla simulatior](htt
 The original scene was to start from the highway ramp and drive along the highway.
 If you need to complete other scene tasks, please reset the starting and ending points according to the scene conditions.  
 
-In this code, the reinforcement learning algorithm used is SAC and experience buffering is used for training.
+In this code, the reinforcement learning algorithm used is SAC and experience buffering is used for training.  
 Since our paper is still under review, the main code is provided for reference, while the environment and data processing code will be updated after the paper is accepted.
 
 # Requirements
